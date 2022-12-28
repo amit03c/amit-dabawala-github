@@ -1,0 +1,1 @@
+export interface  clientType { client_id: number, featured_image: string } 
